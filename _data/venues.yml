@@ -1,5 +1,14 @@
 - title: Online
   name: online
+  city: Manila
+  img: online-kath.jpg
+  thumbnail: online-thumb-kath.jpg
+  alt: Bedroom coders
+  people: Kath
+  description: trying git fundamentals, joining from the Philippines :)
+
+- title: Online
+  name: online
   city: Anywhere
   img: online.jpg
   thumbnail: online-thumb.jpg
