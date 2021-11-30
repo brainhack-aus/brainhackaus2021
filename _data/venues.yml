@@ -43,6 +43,16 @@
   people: Saskia Bollmann
   description: My office mates :D
 
+
+- title: Mount Cotton
+  name: MC
+  city: Outer Suburbs - Brisbane
+  img: MCDesk.jpg
+  thumbnail: mountCotton.jpg
+  alt: Mount Cotton bushland
+  people: Imogen Stead
+  description: Someone always steals my chair
+  
 - title: Zoom Attendee (Cat Included)
   name: Andrew Mckay
   city: Brisbane
@@ -51,3 +61,4 @@
   alt: Gotta love a brainy Cat
   people: My Cat (Mason)
   description: My office buddy
+
